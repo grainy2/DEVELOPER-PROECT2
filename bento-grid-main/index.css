@@ -1,16 +1,96 @@
+/* Card number 1 */
 .pink{
     background-color: hsl(31, 66%, 93%);
-    width: 150px;
+    width: 130px;
+    padding: 35px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
-.pink-text{
-    text-align: center;
-}
+.pink-text{ 
+    /* add in the font!!!! */
+    
+   }
 
-.content-pink{
+   .content-pink{
     display: flex;
     justify-content: center;
 }
 
+.create-post{
+    width: 150px;
+}
+
+.quicker{
+    color: hsl(256, 67%, 59%);
+}
+
+
+
+/* card number 2 */
+
+.purple{
+    background-color:  hsl(256, 67%, 59%);
+    width: 350px;
+    border-radius: 7px;
+    padding: 13px;
+    margin-top: 30px; 
+    /* can remove margin top after placement*/
+}
+
+.star-head{
+    color:hsl(0, 0%, 100%) ;
+    /* change font! */
+    text-align: center;
+}
+
+.star-text{
+    color: hsl(39, 100%, 71%) ;
+    /* change font*/
+}
+
+.star-para{
+    color: white;
+    text-align: center;
+    /* change font */
+}
+
+.stars{
+    width: 100px;
+}
+
+.purple-content{
+    display: flex;
+    justify-content: center;
+}
+
+/* card number 3 */
+
+.lavender{
+    background-color: hsl(254, 88%, 90%);
+    width: 150px;
+    border-radius: 4px;
+    padding-left: 20px ;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-top: 30px;
+    /* can remove maergin later */
     
-    
+}
+
+.lavender-head{
+    line-height: 0.9;
+    /* more text properties here */
+}
+
+.bar{
+    width: 150px;
+}
+
+.lavender-cover{
+    display: flex;
+    justify-content: right;
+}
+
+
+

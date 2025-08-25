@@ -1,0 +1,16 @@
+.pink{
+    background-color: hsl(31, 66%, 93%);
+    width: 150px;
+}
+
+.pink-text{
+    text-align: center;
+}
+
+.content-pink{
+    display: flex;
+    justify-content: center;
+}
+
+    
+    

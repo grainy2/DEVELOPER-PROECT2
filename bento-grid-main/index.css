@@ -1,3 +1,7 @@
+body{
+    background-color:hsl(254, 16%, 63%);
+}
+
 /* Card number 1 */
 .pink{
     background-color: hsl(31, 66%, 93%);
@@ -7,10 +11,9 @@
     border-radius: 5px;
 }
 
-.pink-text{ 
+/* .pink-text{  */
     /* add in the font!!!! */
-    
-   }
+
 
    .content-pink{
     display: flex;
@@ -85,6 +88,7 @@
 
 .bar{
     width: 150px;
+    height: 200px;
 }
 
 .lavender-cover{
@@ -92,5 +96,135 @@
     justify-content: right;
 }
 
+.lavender-para{
+     font-size: 13px;
+}
+
+/* card numer 4 */
+
+.yellow{
+    background-color:hsl(39, 100%, 71%) ;
+    width: 130px;
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 5px;
+    height: 270px;
+}
+
+.ai{
+    width: 160px;
+}
+
+.ai-cover{
+    display: flex;
+    justify-content:center;
 
 
+/* .yellow-head{ */
+    /* get text to fitat the left top */
+ 
+}
+
+/* card number 5 */
+
+.white{
+    background-color: hsl(0, 0%, 100%);
+    max-width: 200px;
+    height: 220px;
+    border-radius: 7px;
+    padding: 20px;
+    
+
+}
+
+.manage{
+    width: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+.white-border{
+    display: flex;
+    justify-content: center;
+}
+
+/* cad number 6 */
+
+.swite{
+    background-color:white ;
+    max-width: 200px;
+    height: 220px;
+    border-radius: 7px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+.favicon{
+    width: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+.favicon-cont{
+    display: flex;
+    justify-content: center;
+}
+
+/* .faster{ */
+    
+
+
+/* card number 7 */
+
+.orange{
+    background-color:hsl(39, 100%, 71%) ;
+    max-width: 200px;
+    height: 220px;
+    border-radius: 7px;
+    padding: 20px;
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.schedule{
+    width: 200px;
+    
+    
+}
+
+.orange-cont{
+    
+}
+
+/* card 8 */
+
+.final{
+    background-color:hsl(256, 67%, 59%) ;
+    border-radius: 5px;
+    margin-top: 50px;
+    max-width: 350px;
+    padding: 15px;
+}
+
+.grow{
+    width: 150px;
+    padding-right: 10px;  
+}
+
+.final-head{
+    text-align: left;
+    color: white;
+}
+
+.fix{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* .container{
+    column-count: 3;
+    column-gap: 10px;
+} */
